@@ -1,0 +1,17 @@
+
+*{
+  font-family: arboria;
+}
+
+h1{
+  text-align: left;
+}
+
+
+ul li{
+  padding-bottom:5px;
+}
+
+ul a{
+  color:rgb(105, 105, 105);
+}
